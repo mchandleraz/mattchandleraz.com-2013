@@ -161,5 +161,7 @@ function bones_wpsearch($form) {
 	return $form;
 } // don't remove this bracket!
 
+// Hiding admin bar
+add_filter('show_admin_bar', '__return_false');
 
 ?>
