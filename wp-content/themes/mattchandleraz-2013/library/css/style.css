@@ -905,7 +905,7 @@ GENERAL STYLES
 *********************/
 /* line 18, ../scss/_base.scss */
 body {
-  font-family: "Georgia", Cambria, Times New Roman, Times, serif;
+  font-family: "OpenSansRegular", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 100%;
   line-height: 1.5;
   color: #565656;
