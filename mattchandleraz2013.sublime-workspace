@@ -1,0 +1,1030 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rss",
+				"rss_items"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"nav-m",
+				"nav-main-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fea",
+				"featured-main"
+			],
+			[
+				"featured",
+				"featured-text"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"a86",
+				"a86f30"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"conte",
+				"content-social"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"posts",
+				"posts_per_page"
+			],
+			[
+				"i",
+				"ifelse	if … else …"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"lo",
+				"loginform"
+			],
+			[
+				"img",
+				"imgSecond"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"menu",
+				"menu-sidewinders-container"
+			],
+			[
+				"menu-s",
+				"menu-sidewinders-container"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"menu-",
+				"menu-item"
+			],
+			[
+				"me",
+				"menu-sidewinders"
+			],
+			[
+				"ca",
+				"cat-blog-container"
+			],
+			[
+				"pa",
+				"parents"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pre",
+				"presented-by"
+			],
+			[
+				"twi",
+				"twitter-widget-0"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"backgr",
+				"background	CSS3 Background Property in Shorthand"
+			],
+			[
+				"main",
+				"main-top"
+			],
+			[
+				"scores",
+				"scores_cat"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"tax",
+				"tax_terms"
+			],
+			[
+				"sim",
+				"simply-scroll-clip"
+			],
+			[
+				"sh",
+				"shuffle"
+			],
+			[
+				"simpl",
+				"simplyscroll"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"head",
+				"headlines"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"content",
+				"content-outer"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"page",
+				"page-id-4180"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"in",
+				"input_2_4"
+			],
+			[
+				"gf",
+				"gform_description"
+			],
+			[
+				"par",
+				"partnerHeader"
+			],
+			[
+				"part",
+				"partnerSidebar"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"partner",
+				"partnerHeader"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"fin",
+				"function"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"partn",
+				"partnersTicker"
+			],
+			[
+				"partners",
+				"partners-list"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"sidebar",
+				"adSidebar"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"gfo",
+				"gform_wrapper_6"
+			],
+			[
+				"gfor",
+				"gform_wrapper_2"
+			],
+			[
+				"homepage",
+				"homepage-wrapper"
+			],
+			[
+				"foa",
+				"float"
+			],
+			[
+				"top",
+				"top-spons"
+			],
+			[
+				"gform",
+				"gform_wrapper_8"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"fan",
+				"fan-poll"
+			],
+			[
+				"League",
+				"LeagueGothicRegular"
+			],
+			[
+				"sched",
+				"schedule"
+			],
+			[
+				"sche",
+				"schedule"
+			],
+			[
+				"sc",
+				"schedule"
+			],
+			[
+				"sponsor",
+				"sponsorScroll"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"image",
+				"image-replacement"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"the",
+				"the_post"
+			],
+			[
+				"rat",
+				"rattlers_gray"
+			],
+			[
+				"ratt",
+				"rattlers_teal"
+			],
+			[
+				"Leage",
+				"LeagueGothicRegular"
+			],
+			[
+				"res",
+				"responsive_viewport"
+			],
+			[
+				"rattlers",
+				"rattlers_gray"
+			],
+			[
+				"ra",
+				"rattlers_black"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"wp_reg",
+				"wp_register_script"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"Part",
+				"Partner"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"or",
+				"orange"
+			],
+			[
+				"TNTP",
+				"TNTProSvcs"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"Widgeti",
+				"widgetized"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"gce-ca",
+				"gce-caption"
+			],
+			[
+				"hea",
+				"head	Tag"
+			],
+			[
+				"cate",
+				"category-latest-news"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"team",
+				"teamTwo"
+			],
+			[
+				"tea",
+				"teamTwo"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"gam",
+				"gamesIn"
+			],
+			[
+				"ga",
+				"gamesIn"
+			],
+			[
+				"games",
+				"gamesIn"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"game",
+				"game"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"str_r",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/page-2013-schedule.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/widgets/widget-scoreboard.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/images/backgrounds/bgrotator.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/js/ticker.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/archive-scoreboard.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/page-sidewinders.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/css/responsive.css",
+		"/Users/mattchandler/Desktop/sidenav.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/nextgen-gallery/js/ngg.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/p/lax/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-admin/css/wp-admin.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-admin/css/wp-admin.min.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/admin/admin-style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/admin/admin-interface.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/admin/theme-settings.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/admin/admin-functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/twitest.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/sidebar.php",
+		"/Users/mattchandler/Desktop/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/p/syncro/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/widgets/widget-games.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/css/DEV_style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/bones.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-sidewinders.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/mixins.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/css/flexslider.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-schedule.php",
+		"/Users/mattchandler/Desktop/sched.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/page-tickets.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-tickets.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-sidewindersphoto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/page-community.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/nextgen-gallery/css/nggallery.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-community.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/page-fullwidth.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-includes/script-loader.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-schedule.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/page-schedule.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-tickets.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday/index.php",
+		"/Users/mattchandler/Google Drive/Rattlers Redesign/Rattlers2013.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/css/ie.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-seasontix.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-team.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-results.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/page-customv1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/headlinesbuild.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/js/jquery.bxslider.min.js",
+		"/Users/mattchandler/Desktop/site builds/Quentin Defense/ecom_mockup.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/single-game.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/base.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/custom-post-type.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/slidewizard/slidewizard.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/slidewizard/readme.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/recent-posts-slider/recent-posts-slider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/archive-game.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/css/base.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/recent-posts-slider/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/recent-posts-slider/readme.txt",
+		"/Users/mattchandler/Desktop/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/481up.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/768up.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/1030up.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/bones.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-includes/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/inc_php/base.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/inc_php/base_front.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/inc_php/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/inc_php/revslider_slide.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/inc_php/revslider_operations.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/inc_php/revslider_globals.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers/wp-content/themes/azrattlers/library/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/wp-nivo-slider/wp-nivo-slider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/wp-nivo-slider/readme.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/wp-nivo-slider/js/jquery.nivo.slider.pack.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/wp-nivo-slider/js/jquery.nivo.slider.pack.js_old",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/nivoplugin/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/nivoplugin/nivoplugin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/revslider_front.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/revslider/revslider_admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/css/481up.css",
+		"/Users/mattchandler/Desktop/toolbox/themes/eddiemachado-bones-3027a44/library/scss/_base.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/archive.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-community.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-customv1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-fanzone.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-sidewinders.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-sidewindersphoto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/page-team.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/sidebar-schedule.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/sidebar-stryker.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/single-game.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/login.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/ie.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/2x.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2/library/scss/1240up.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipsepro/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipsepro/core/css/foundation.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipsepro/core/actions/global-actions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipsepro/core/library/js/menu.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipsepro/core/core-functions.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/gameday",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers/library/css",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers/wp-content/themes",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/plugins/wp-nivo-slider",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2/wp-content/themes/azrattlers2",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers2",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipsepro",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipsepr",
+			"/Users/mattchandler/.Trash/meta",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/eclipse",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/tnt_13/wp-content/themes/TannerNet2013/library",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/dnaprss/current/wp-content/themes/dnaprss",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/PCLinks/",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/PCLinks/wp-content/themes/PCLinks",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers/wp-content/plugins/job-manager",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers/wp-content/themes/azrattlers",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/dnaprss/current/wp-content/themes/display",
+			"style.css.min",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/tannernet_current/wp-content/themes/zenon_lite",
+			"",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/tannernet_current/wp-content/themes/zenon_lite",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/tannernet_current/wp-content/themes/zenon_lite/",
+			"/Applications/XAMPP/xamppfiles/htdocs/tnt/rattlers/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\"",
+			"1s",
+			"#social",
+			"social",
+			"but",
+			"-but",
+			"#social",
+			"retina",
+			"Side",
+			"sth",
+			"Sched",
+			"logo-w",
+			"tnt_",
+			"#ticker",
+			"#A89",
+			"a89",
+			":first",
+			"score",
+			"footer-b",
+			".btn",
+			"Sched",
+			"sched",
+			"login",
+			"meta",
+			"/home",
+			"copyr",
+			"login",
+			"Stry",
+			"commu",
+			"comm",
+			"sch",
+			"2.1.",
+			"score",
+			"2.1.",
+			"240px",
+			"sidew",
+			"nav-link",
+			"pagin",
+			"sidewinder",
+			"IE",
+			"-52",
+			"nav",
+			"#nav",
+			"#nav-mobi select",
+			"score",
+			"page",
+			"5296",
+			"page-item",
+			"menu-item",
+			"nav",
+			"font-family: \"HelveticaNeue-Light\"",
+			"font-family: sans-serif;",
+			"sans",
+			"Oswald",
+			"@font",
+			".login h1",
+			"sans",
+			"2.0",
+			"scripts.js",
+			"scoreboard",
+			"<span class=\"score-status\"><?php echo get_post_meta($post->ID, \"gd_status\", true); ?></span>",
+			"enq",
+			"contentb",
+			"WP_Query(array( 'post_type' => 'scoreboard', 'showposts'",
+			"'field' => 'slug', 'terms'",
+			"score-nav",
+			"score",
+			"style.css",
+			"style",
+			"scripts",
+			"5151",
+			"1023",
+			"#twitter",
+			"768",
+			" style=\"width: 960px; visibility: hidden; display: inline;\"",
+			"headline",
+			"score-wrapper",
+			"score",
+			"game",
+			"save data from",
+			"create_",
+			"game",
+			"score",
+			"homepage",
+			"twitter",
+			"#national-partners",
+			"national-",
+			"linkedin",
+			"instagram",
+			"linkedin",
+			".game",
+			"Game",
+			"game",
+			"gameboard",
+			"game",
+			"score",
+			"Scoreboard",
+			"scoreboard",
+			"Scores",
+			"a ",
+			".icon",
+			"nav-sea",
+			";;",
+			"\n	}",
+			";\n		}",
+			"#gform_wrapper_2",
+			".won",
+			"categ",
+			"scripts.js",
+			"sidewin",
+			".simply-sc",
+			".category-fe",
+			".simply-sc",
+			".nav",
+			"pauseOnH",
+			"pauseOn",
+			"simpl",
+			"ul.ca",
+			"#main .s",
+			".category-feat",
+			".simply",
+			"striped",
+			"155px",
+			"-button.png\"></li>",
+			"<li><img src=\"/wp-content/themes/azrattlers/library/images/partners/",
+			"simply",
+			"nav",
+			"navi"
+		],
+		"highlight": false,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"menu-item",
+			"font-family: 'Oswald', \"HelveticaNeue-Light\"",
+			"font-family: 'Oswald', sans-serif;",
+			"<span class=\"score-status\"><a href=\"<?php the_permalink(); ?>\"><?php echo get_post_meta($post->ID, \"gd_status\", true); ?></a></span>",
+			"WP_Query(array( 'post_type' => 'scoreboard', 'order' => 'ASC', 'showposts'",
+			"'field' => 'slug', 'order' => 'ASC', 'orderby' => 'title', 'terms'",
+			"",
+			"score",
+			"#partners-block",
+			"game",
+			"Game",
+			"game",
+			";",
+			";\n}",
+			";\n	}",
+			"-button.png\"></a></li>",
+			"<li><a href=\"\"><img src=\"/wp-content/themes/azrattlers/library/images/partners/",
+			"/azrattlers/library/images",
+			"azrattlers",
+			"#content-inner, .content-inner",
+			"#content-outer, .content-outer",
+			"partners-rotator",
+			" ",
+			"#partners-rotator ul",
+			"	</section>\n	<aside>",
+			"	</aside>\n</article>",
+			"	</section>\n	<aside>",
+			"<section>",
+			"<article class=\"schedule-entry\">",
+			"	</header>\n	<section>",
+			"	</section>\n	<aside>",
+			"	</aside>\n</article>",
+			"<li>",
+			"	</section>\n	<aside>",
+			"	</aside>\n</article>",
+			"	</section>\n	<aside>",
+			"<section>",
+			"<article class=\"schedule-entry\">",
+			"<aside>\n		<h3 class=\"asideH3\">",
+			" > ",
+			"#content-area > .schedule-entry >",
+			"</aside>\n#content-area > .schedule-entry >",
+			"</aside>\n#content-area > .schedule-entry > ",
+			"</aside>\n</section>",
+			"<section class=\"schedule-entry\">",
+			"<aside>",
+			"class=\"home\"",
+			"class=\"away\"",
+			"jQuery",
+			"cover !important;",
+			"jQuery(",
+			"cox.png",
+			"#featured article.post<a href=\"<?php the_permalink() ?>\" rel=\"bookmark\" title=\"<?php the_title_attribute(); ?>\"><?php the_post_thumbnail( 'home-thumbnails' ); ?></a>\n							    	<header>\n								\n								    	<a href=\"<?php the_permalink() ?>\" rel=\"bookmark\" title=\"<?php the_title_attribute(); ?>\"><h1><?php the_title(); ?></a></h1>",
+			"#featured article.post",
+			"$headlines",
+			"),",
+			"<header>",
+			"<?php the_title(); ?>",
+			".post-title",
+			"\\\"",
+			"mobileNav",
+			"'container_class' => ''",
+			"'container_class' => '",
+			"instagram",
+			"\\\"",
+			">",
+			"<h1><a href=\"<?php the_permalink() ?>\" rel=\"bookmark\" title=\"<?php the_title_attribute(); ?>\"><?php the_title(); ?>",
+			"<?php the_post_thumbnail( 'home-thumbnails' ); ?></a>",
+			"</a>",
+			">",
+			"jQuery",
+			"/azrattlers2",
+			"<a href=\"http://azrattlers.com/season-tickets/\" target=\"_blank\" class=\"scheduleBuyTix\">Buy Tickets!</a>",
+			"<li><a href",
+			"class=\"nav-tabs icon-",
+			"../fonts/",
+			"<span style=\" font-family:",
+			"",
+			"&category=1&posts_per_page=1",
+			"home_",
+			"threecol",
+			"pcl-blue",
+			"<td style=\"padding:10px;\">",
+			"</td>",
+			"<td>",
+			"_3",
+			"$score",
+			"<img src=\"images/placeholder.jpg\" alt=\"alt\">\n					<div id=\"entry-07\" class=\"entryContainer\">",
+			"\n				<div id=\"entry-01\" class=\"entryContainer\">\n					<img src=\"images/placeholder.jpg\" alt=\"alt\">\n					<h2 class=\"h4\">Entry Number</h2>",
+			"h2",
+			"38",
+			"fanzone"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"wp-content/themes/zenon_lite/page_webdevport.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
