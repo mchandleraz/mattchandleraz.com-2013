@@ -544,7 +544,7 @@ NAVIGATION STYLES
 *********************/
 /* line 42, ../scss/_768up.scss */
 .nav {
-  background: #eee;
+  float: right;
   border: 0;
   /* end .menu ul li */
   /* highlight current page */
